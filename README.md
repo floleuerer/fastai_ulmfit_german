@@ -1,3 +1,8 @@
+
+# This repo is DEPRECATED!
+
+see this repo for a complete fastai ULMFiT guide https://github.com/floleuerer/fastai_ulmfit
+
 # ULMFiT German with SentencePiece
 
 Based on https://github.com/fastai/course-nlp/blob/master/nn-turkish.ipynb and ported to fastai2
@@ -11,16 +16,3 @@ Based on https://github.com/fastai/course-nlp/blob/master/nn-turkish.ipynb and p
 
 13-15) Same as notebooks 03-05 but with 15k vocab size
 
-## Pretrained weights
-
-### AWD_LSTM Sentencepiece 30k vocab
-
-Trained with Notebook 03  
-Model: http://meansqua.red/files/de_ulmfit/30k/de_wikitext.pth  
-Vocab: http://meansqua.red/files/de_ulmfit/30k/de_wikitext_vocab.pkl  
-
-### AWD_LSTM Sentencepiece 15k vocab
-
-Trained with Notebook 13  
-Model: http://meansqua.red/files/de_ulmfit/15k/de_wikitext.pth  
-Vocab: http://meansqua.red/files/de_ulmfit/15k/de_wikitext_vocab.pkl  
